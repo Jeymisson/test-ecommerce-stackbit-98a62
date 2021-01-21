@@ -17,9 +17,9 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 80
     content: |
-      # Ecommerce test edit
+      # Ecommerce test edit code pushed from git.
 
-      Lorem ipsum!
+      Lorem ipsum, test test test
     actions:
       - title: See all items
         url: /store
