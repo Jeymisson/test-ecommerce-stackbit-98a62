@@ -17,7 +17,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 80
     content: |
-      # Ecommerce test edit code pushed from git.
+      # Ecommerce test edit code pushed from git. lalallalala
 
       Lorem ipsum, test test test
     actions:
