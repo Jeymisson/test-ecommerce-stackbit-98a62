@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Best sellers xpto
+    title: Best sellers test ab variante baseline
     icon: true
     light_title: true
     featured_products:
