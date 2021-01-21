@@ -7,7 +7,7 @@ sections:
     background_image: images/VTEX_office_07.jpg
     background_image_opacity: 80
     content: |
-      # VTEXT
+      # VTEXT test xpto
 
       Lorem ipsum, test test test
     actions:
