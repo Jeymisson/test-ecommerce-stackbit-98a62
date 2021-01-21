@@ -2,16 +2,6 @@
 title: Home
 white_header: true
 sections:
-  - type: featured_products_section
-    section_id: best_sellers_section
-    title: Best sellers test ab variante baseline
-    icon: true
-    light_title: true
-    featured_products:
-      - src/pages/products/plant1.md
-      - src/pages/products/plant3.md
-      - src/pages/products/plant5.md
-      - src/pages/products/plant7.md
   - type: hero_section
     section_id: hero_section
     background_image: images/header.jpg
@@ -25,6 +15,16 @@ sections:
         url: /store
         arrow: true
         style: primary
+  - type: featured_products_section
+    section_id: best_sellers_section
+    title: Best sellers test ab variante baseline
+    icon: true
+    light_title: true
+    featured_products:
+      - src/pages/products/plant1.md
+      - src/pages/products/plant3.md
+      - src/pages/products/plant5.md
+      - src/pages/products/plant7.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
