@@ -19,6 +19,8 @@ sections:
     content: |
       # Ecommerce test edit code pushed from git. lalallalala
 
+      ## Second header line
+
       Lorem ipsum, test test test
     actions:
       - title: See all items
