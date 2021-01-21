@@ -7,7 +7,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 80
     content: |
-      # Ecommerce test
+      # VTEXT
 
       Lorem ipsum, test test test
     actions:
