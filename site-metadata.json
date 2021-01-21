@@ -28,7 +28,7 @@
     },
     "main_menu": [
         {
-            "title": "Store",
+            "title": "test category",
             "url": "/store",
             "style": "link"
         },
